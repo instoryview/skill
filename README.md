@@ -49,7 +49,7 @@ Never paste an API Key into a chat.
 
 ## FAQ
 
-**Does it work with ChatGPT?** Use the [ChatGPT / Codex plugin preview](https://github.com/instoryview/chatgpt-plugin) or add the MCP server above as a custom connector.
+**Does it work with ChatGPT?** The Skill is for hosts that read Agent Skills (Claude Code, Codex, Cursor). For ChatGPT, use the [ChatGPT / Codex plugin preview](https://github.com/instoryview/chatgpt-plugin) (not yet in the public Plugin Directory) or add the MCP server above as a custom connector.
 
 **Does it need my Instagram password?** No. It uses only your Instoryview account.
 
