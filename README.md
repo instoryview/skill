@@ -58,3 +58,7 @@ Never paste an API Key into a chat.
 ## Links
 
 [Skill docs](https://instoryview.com/docs/skill) · [Open API](https://instoryview.com/docs/reference) · [CLI](https://github.com/instoryview/cli) · [Instagram follower tracker](https://instoryview.com) · support@instoryview.com
+
+## License
+
+[MIT](LICENSE)
